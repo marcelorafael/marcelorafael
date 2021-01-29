@@ -1,7 +1,7 @@
 ### Hi there, I'm Marcelo Rafael 👋
 
 <h1 style="text-align:center;color:blue;"> Hi there, I'm Marcelo Rafael 👋 </>
-  <p style="color:red;">This is a paragraph.</p>
+  
 
 <!--
 **marcelorafael/marcelorafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p style="color:red;">This is a paragraph.</p>
