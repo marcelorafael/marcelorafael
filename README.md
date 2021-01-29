@@ -1,6 +1,6 @@
 ### Hi there, I'm Marcelo Rafael 👋
 
-<h1 style="text-align:center"> Hi there, I'm Marcelo Rafael 👋 </>
+<h1 style="text-align:center;color:blue;"> Hi there, I'm Marcelo Rafael 👋 </>
 
 <!--
 **marcelorafael/marcelorafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
