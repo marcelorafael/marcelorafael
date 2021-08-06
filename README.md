@@ -14,3 +14,13 @@
   <img src="https://github.com/marcelorafael/marcelorafael/blob/master/javascript-plain.svg" alt="React Native" width="50" height="30" />
   <img src="https://github.com/marcelorafael/marcelorafael/blob/master/react-original.svg" alt="React Native" width="50" height="30" />
 </div>
+
+<div style="display: inline-block" target="_blank" ></br>
+   <a href="https://www.linkedin.com/in/marcelorafael23/" >
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+   </a>
+   
+   <a href="https://api.whatsapp.com/send?phone=+5591982016505" >
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
+   </a>
+</div>
